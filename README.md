@@ -18,6 +18,6 @@ Terminando o 3º Ano do **Ensino Médio**
 
 
 <p align="center">
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=daniellucas04&show_icons=true&theme=dark&cache_seconds=2300" height="150em"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellucas04&layout=compact&theme=dark&hide_langs_below=1" height="148em"/>
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=daniellucas04&show_icons=true&theme=dark&cache_seconds=2300" height="110em"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellucas04&layout=compact&theme=dark&hide_langs_below=1" height="110em"/>
 </p>
