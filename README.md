@@ -21,3 +21,7 @@ Terminando o 3º Ano do **Ensino Médio**
   <img align='center' src="https://github-readme-stats.vercel.app/api?username=daniellucas04&show_icons=true&theme=dark&cache_seconds=2300" height="110em"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellucas04&layout=compact&theme=dark&hide_langs_below=1" height="110em"/>
 </p>
+
+<a href="https://www.instagram.com/daniellplz/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-daniellplz-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
