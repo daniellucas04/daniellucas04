@@ -2,18 +2,18 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Daniel&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-<p align="left">"<b>Buscando sempre melhorar.</b>" 😴</p>
+<p align="left">"<b>Always looking to be better.</b>" 😴</p>
 
 <p align="left">
   
-Estudando no **Instituto Federal de São Paulo - Campus Barretos**<br/>
-Terminando o 3º Ano do **Ensino Médio**
+Studying at the **Federal Institute of São Paulo - Campus Barretos**<br>
+Finishing the 3rd Year of **High School**
   
 </p>
 <hr></hr>
 
 <p align="center">
-  <h2 align="center">Estatísticas</h2>
+  <h2 align="center">Github Analytics</h2>
 </p>
 
 
