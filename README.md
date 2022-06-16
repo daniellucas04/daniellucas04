@@ -6,7 +6,7 @@
 
 <p align="left">
   
-Studying at the **Federal Institute of São Paulo - Campus Barretos**<br>
+Studying at the **Instituto Federal de São Paulo - Campus Barretos**<br>
 Finishing the 3rd Year of **High School**
   
 </p>
