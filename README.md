@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellucas04&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellucas04&show_icons=true&layout=compact&theme=dark"/>
