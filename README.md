@@ -25,4 +25,5 @@ Finishing the 3rd Year of **High School**
 <a href="https://www.instagram.com/daniellplz/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-daniellplz-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+
 ![Snake animation](https://github.com/seu-usuário-aqui/daniellucas04/blob/output/github-contribution-grid-snake.svg)
