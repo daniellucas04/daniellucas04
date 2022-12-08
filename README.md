@@ -11,17 +11,3 @@ Finishing the 3rd Year of **High School**
   
 </p>
 <hr></hr>
-
-<p align="center">
-  <h2 align="center">Github Analytics</h2>
-</p>
-
-
-<p align="center">
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=daniellucas04&show_icons=true&theme=dark&cache_seconds=2300" height="110em"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellucas04&layout=compact&theme=dark" height="110em"/>
-</p>
-
-<a href="https://www.instagram.com/daniellplz/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-daniellplz-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
