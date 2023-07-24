@@ -7,7 +7,7 @@
 <p align="left">
   
 Studying at the **Instituto Federal de São Paulo - Campus Barretos**<br>
-Finishing the 3rd Year of **High School**
-  
+Doing Análise e Desenvolvimento de Sistemas college - 2023/today
+
 </p>
 <hr></hr>
