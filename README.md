@@ -1,13 +1,13 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="220px" align="right" alt="Computador iuriCode">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=daniellucas04&theme=dark" alt="ilustração do status do github">
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Daniel&color=111&style=for-the-badge&logo=GitHub">
+### Olá, meu nome é Daniel! 
 
-<p align="left">"<b>Always looking to be better.</b>" 😴</p>
+- **Desenvolvedor Web na SouFácil**
+- **Análise e Desenvolvimento de Sistemas 5/6**
 
-<p align="left">
-  
-Studying at the **Instituto Federal de São Paulo - Campus Barretos**<br>
-- Análise e Desenvolvimento de Sistemas college - 2023/today
-
+### Stack
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </p>
-<hr></hr>
