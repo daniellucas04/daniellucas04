@@ -3,7 +3,7 @@
 ### Olá, meu nome é Daniel! 
 
 - **Desenvolvedor Web na SouFácil**
-- **Análise e Desenvolvimento de Sistemas 5/6**
+- **Análise e Desenvolvimento de Sistemas 6/6**
 
 ### Stack
 <p>
